@@ -1,8 +1,4 @@
-Certainly! Here is a README.md file that explains the code in the `david_fix.ipynb` notebook in detail:
-
----
-
-# Image Classification with TensorFlow and Keras
+# Indonesian Food Image Classification with TensorFlow and Keras
 
 This repository contains a Jupyter notebook that demonstrates how to build, train, convert, and use a machine learning model for image classification using TensorFlow and Keras.
 
